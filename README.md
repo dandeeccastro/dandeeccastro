@@ -6,9 +6,6 @@ Software engineer for a living, open source enthusiast and accumulator of keyboa
 - 💸 [dandeeccastro/bill-the-splitter](https://github.com/dandeeccastro/bill-the-splitter) - single-page bill splitting website <br/>
 - 📄 [dandeeccastro/resumeinator](https://github.com/dandeeccastro/resumeinator) - jekyll-to-pdf pipeline that turns my resume into one YAML file<br/>
 
-#### Cool stuff I made
-- [dandeeccastro/venti](https://github.com/dandeeccastro/venti) - Event manager web app using Ruby on Rails and Vue.
-
 #### Cool stuff I'm learning
 - Game development in Godot using GDScript and C# with my friends at [Bathhouse Games Studio](https://github.com/Bathhouse-Games-Studio)<br/>
 - Going through some backend courses at [Alura](https://alura.com.br)<br/>

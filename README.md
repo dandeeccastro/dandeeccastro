@@ -1,11 +1,16 @@
-# 👋 Hi, I'm Dan
+### 👋 Hi, I'm Dan
 
-## > whoami
+Software engineer for a living, open source enthusiast and accumulator of keyboards.
 
-💻 Full stack web developer for work, tech enthusiast for life.<br/>
-👨‍🎓 Bachelor's in Computer Science.<br/>
-📔 Learning game development and other cool things.<br/>
+#### Cool stuff I'm working on
+- 💸 [dandeeccastro/bill-the-splitter](https://github.com/dandeeccastro/bill-the-splitter) - single-page bill splitting website <br/>
+- 📄 [dandeeccastro/resumeinator](https://github.com/dandeeccastro/resumeinator) - jekyll-to-pdf pipeline that turns my resume into one YAML file<br/>
 
-## > write dundee
+#### Cool stuff I made
+- [dandeeccastro/venti](https://github.com/dandeeccastro/venti) - Event manager web app using Ruby on Rails and Vue.
 
-✉️ dundeepessoal \[at\] gmail \[dot\] com
+#### Cool stuff I'm learning
+- Game development in Godot using GDScript and C# with my friends at [Bathhouse Games Studio](https://github.com/Bathhouse-Games-Studio)<br/>
+- Going through some backend courses at [Alura](https://alura.com.br)<br/>
+
+Feel free to contact me through email!
